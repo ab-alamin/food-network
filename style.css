@@ -100,3 +100,21 @@ section.social-experiemts .box {
     font-size: 40px;
     margin-bottom: 0px;
 }
+
+footer {
+    text-align: center;
+    background-color: black;
+    padding: 20px 0 100px;
+}
+
+footer h2 {
+    color: #5B5B5B;
+    text-transform: uppercase;
+    font-size: 35px;
+}
+
+footer p {
+    color: #fff;
+    font-size: 16px;
+    margin: 0;
+}
