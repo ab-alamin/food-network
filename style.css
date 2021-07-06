@@ -6,3 +6,54 @@ body {
     color: #000;
     background-color: #fff;
 }
+
+span{
+    color:#FB984C ;
+}
+
+section{
+    display: flex;
+}
+
+.banner-text {
+    width: 45%;
+}
+
+.banner-img {
+    width: 55%;
+}
+
+
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(#FB954B,tomato);
+    color:white;
+    padding: 10px 40px;
+    border-radius: 20px; 
+    box-shadow:5px 5px 5px orange;
+}
+
+.about-me{
+    background-image: url(images/shapes/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.box-area{
+    text-align: center;
+    flex: 33.3%;
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-top: 50px;
+}
+.box{
+    width: 40%;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px rgb(120, 32, 184);
+}
